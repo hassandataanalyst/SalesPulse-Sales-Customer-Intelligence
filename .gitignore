@@ -1,0 +1,16 @@
+
+# Tableau temporary and lock files
+~*.twb
+*.tmp
+*.lock
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+
+# Temporary files
+*.bak
+*.log
